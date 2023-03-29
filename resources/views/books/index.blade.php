@@ -7,7 +7,7 @@
             <div class="row">
                 <!-- Title Start -->
                 <div class="col-12 col-sm-6">
-                    <h1 class="mb-0 pb-0 display-4" id="title">Data Buku</h1>
+                    <h1 class="mb-0 pb-0 display-4" id="title">Data Books</h1>
                     <nav class="breadcrumb-container d-inline-block" aria-label="breadcrumb">
                         <ul class="breadcrumb pt-0">
                             <li class="breadcrumb-item"><a href="Dashboards.Default.html">Home</a></li>
